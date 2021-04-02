@@ -1,0 +1,70 @@
+.name, .topTitle, .housses {
+  font-size: 12px;
+}
+
+.bouton, .home {
+  font-size: 10px;
+}
+
+.headerAside {
+  background: #02023A;
+}
+
+.topTitle, .home {
+  color: #DDAC2B;
+}
+
+.container {
+  position: relative;
+}
+
+.container .nexter, .headerDescription, .headerFooter {
+  position: absolute;
+  z-index: 1;
+}
+
+.image {
+  filter: brightness(18%);
+}
+
+.nexter {
+  width: 100px;
+  margin-left: 40%;
+  top: 5%;
+}
+
+.headerDescription {
+  top: 30%;
+  margin-left: 15%;
+}
+
+.bouton {
+  background: #DDAC2B;
+  color: white;
+}
+
+.bouton:hover {
+  background: #02023A;
+}
+
+.taille {
+  width: 10%;
+}
+
+.headerFooter {
+  top: 80%;
+}
+
+.taille1 {
+  width: 20%;
+}
+
+.taille3 {
+  width: 6%;
+}
+
+.navigation {
+  background: #DDAC2B;
+}
+
+/*# sourceMappingURL=app.css.map */
