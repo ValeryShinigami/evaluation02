@@ -67,4 +67,28 @@
   background: #DDAC2B;
 }
 
+.titreExemple2 {
+  font-size: 12px;
+}
+
+.trait {
+  position: absolute;
+  top: 75%;
+  z-index: 1;
+  margin-left: 60px;
+  width: 80%;
+}
+
+.exemple2 {
+  height: 10px;
+}
+
+.description-header, .description-text {
+  font-size: 10px;
+}
+
+.description-header {
+  font-weight: bold;
+}
+
 /*# sourceMappingURL=app.css.map */
