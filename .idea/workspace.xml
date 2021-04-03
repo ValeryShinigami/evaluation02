@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6382ceb-2591-4fd3-b8b9-a3ac1f672ad5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/nexter/sass/_decision.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nexter/sass/_footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nexter/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/nexter/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nexter/css/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/nexter/css/app.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nexter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nexter/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nexter/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/nexter/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nexter/sass/_decision.scss" beforeDir="false" afterPath="$PROJECT_DIR$/nexter/sass/_decision.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nexter/sass/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/nexter/sass/_footer.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,8 @@
       <workItem from="1617352404750" duration="154000" />
       <workItem from="1617352571183" duration="18846000" />
       <workItem from="1617400210366" duration="4973000" />
-      <workItem from="1617441254530" duration="6654000" />
+      <workItem from="1617441254530" duration="6886000" />
+      <workItem from="1617454280439" duration="1508000" />
     </task>
     <servers />
   </component>

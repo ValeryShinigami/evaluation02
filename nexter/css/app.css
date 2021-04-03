@@ -149,7 +149,7 @@ button:hover {
   background: #f5f5f5;
 }
 
-.footerText, .footerText1, .footerText3, .footerText5 {
+.footerText, .footerText1, .footerText3, .footerText5, .footerText4 {
   font-size: 15px;
   color: white;
 }
@@ -158,8 +158,15 @@ button:hover {
   text-align: center;
 }
 
-.footerContain {
+.footerContain, .copyright {
   background: #02023A;
+}
+
+.copyrightText {
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  width: 70%;
 }
 
 /*# sourceMappingURL=app.css.map */
