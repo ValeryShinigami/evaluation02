@@ -63,6 +63,10 @@
   width: 6%;
 }
 
+.description-text {
+  color: gray;
+}
+
 .navigation {
   background: #DDAC2B;
 }
@@ -92,26 +96,26 @@
 }
 
 .image1 {
-  z-index: 111111111;
+  z-index: 1;
 }
 
 .image2 {
   display: block;
-  z-index: 11;
+  z-index: 2;
   position: absolute;
-  width: 300px;
-  height: 200px;
+  width: 60%;
+  height: 70%;
   top: 80px;
-  margin-left: 20%;
+  margin-left: 25%;
   border-radius: 10px;
 }
 
 .image3 {
   display: block;
-  z-index: 111;
+  z-index: 3;
   position: absolute;
-  width: 300px;
-  height: 150px;
+  width: 60%;
+  height: 40%;
   top: 150px;
   margin-left: 50%;
   border-radius: 10px;
@@ -167,6 +171,42 @@ button:hover {
   font-size: 10px;
   text-align: center;
   width: 70%;
+}
+
+.TEXT {
+  display: block;
+  position: absolute;
+  z-index: 1;
+  color: white;
+  width: 40%;
+  top: 35%;
+  background: #02023A;
+}
+
+.TEXT_TITLE {
+  font-size: 8px;
+}
+
+.cardContainer {
+  z-index: 2;
+  position: relative;
+}
+
+.state {
+  font-size: 10px;
+  color: gray;
+}
+
+.card-footer {
+  text-align: center;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: white;
+  background: #DDAC2B;
+}
+
+.card-body {
+  background: #f5f5f5;
 }
 
 /*# sourceMappingURL=app.css.map */

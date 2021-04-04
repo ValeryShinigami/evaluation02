@@ -1,0 +1,37 @@
+.TEXT {
+  display: block;
+  position: absolute;
+  z-index: 1;
+  color: white;
+  width: 40%;
+  top: 35%;
+  background: #02023A;
+}
+
+.TEXT_TITLE {
+  font-size: 8px;
+}
+
+
+.cardContainer {
+  z-index: 2;
+  position: relative;
+}
+
+.state {
+  font-size: 10px;
+  color: gray;
+}
+
+.card-footer {
+  text-align: center;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: white;
+  background: #DDAC2B;
+}
+
+.card-body {
+  background: #f5f5f5;
+}
+
