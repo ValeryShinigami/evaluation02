@@ -2,7 +2,7 @@
   font-size: 12px;
 }
 
-.bouton, .home {
+.bouton {
   font-size: 10px;
 }
 
@@ -18,7 +18,7 @@
   position: relative;
 }
 
-.container .nexter, .headerDescription, .headerFooter {
+.nexter, .headerDescription, .headerFooter {
   position: absolute;
   z-index: 1;
 }
@@ -41,6 +41,7 @@
 .bouton {
   background: #DDAC2B;
   color: white;
+  border: none;
 }
 
 .bouton:hover {
@@ -67,6 +68,14 @@
   color: gray;
 }
 
+.freedom {
+  font-size: 70%;
+}
+
+.home {
+  font-size: 8px;
+}
+
 .navigation {
   background: #DDAC2B;
 }
@@ -78,8 +87,8 @@
 .trait {
   position: absolute;
   top: 75%;
-  z-index: 1;
-  margin-left: 60px;
+  z-index: 2;
+  margin-left: 13%;
   width: 80%;
 }
 
@@ -95,17 +104,13 @@
   font-weight: bold;
 }
 
-.image1 {
-  z-index: 1;
-}
-
 .image2 {
   display: block;
   z-index: 2;
   position: absolute;
   width: 60%;
   height: 70%;
-  top: 80px;
+  top: 10%;
   margin-left: 25%;
   border-radius: 10px;
 }
@@ -116,7 +121,7 @@
   position: absolute;
   width: 60%;
   height: 40%;
-  top: 150px;
+  top: 30%;
   margin-left: 50%;
   border-radius: 10px;
 }
@@ -178,28 +183,28 @@ button:hover {
   position: absolute;
   z-index: 1;
   color: white;
-  width: 40%;
-  top: 35%;
+  width: 80%;
+  top: 32%;
+  left: 10%;
   background: #02023A;
 }
 
 .TEXT_TITLE {
-  font-size: 8px;
+  font-size: 7px;
 }
 
-.cardContainer {
-  z-index: 2;
+.card {
   position: relative;
 }
 
 .state {
-  font-size: 10px;
+  font-size: 8px;
   color: gray;
 }
 
 .card-footer {
   text-align: center;
-  font-size: 12px;
+  font-size: 8px;
   text-transform: uppercase;
   color: white;
   background: #DDAC2B;
@@ -207,6 +212,18 @@ button:hover {
 
 .card-body {
   background: #f5f5f5;
+}
+
+.hotelDimension {
+  width: 8rem;
+}
+
+.cardRoom {
+  width: 40px;
+}
+
+.cardPrice {
+  width: 60px;
 }
 
 /*# sourceMappingURL=app.css.map */
